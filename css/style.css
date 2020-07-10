@@ -1,0 +1,13 @@
+h1{
+	text-align: center;
+}
+
+p{
+	font-size: 14px;
+}
+
+p.tip{
+	color:blue;
+	font-size:14px;
+}
+
